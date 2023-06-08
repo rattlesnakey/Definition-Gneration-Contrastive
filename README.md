@@ -77,19 +77,11 @@ Noted that, we follow the evaluation procedure of [T5-Reranking project](https:/
 If you use this repo in your research, please cite it as follows:
 
 ``` 
-@inproceedings{zhang-etal-2022-fine-grained,
-    title = "Fine-grained Contrastive Learning for Definition Generation",
-    author = "Zhang, Hengyuan  and
-      Li, Dawei  and
-      Yang, Shiping  and
-      Li, Yanran",
-    booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
-    month = nov,
-    year = "2022",
-    address = "Online only",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.aacl-main.73",
-    pages = "1001--1012"
+@article{zhang2022fine,
+  title={Fine-grained Contrastive Learning for Definition Generation},
+  author={Zhang, Hengyuan and Li, Dawei and Yang, Shiping and Li, Yanran},
+  journal={arXiv preprint arXiv:2210.00543},
+  year={2022}
 }
 ```
 
